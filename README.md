@@ -1,4 +1,3 @@
-````markdown
 # 🤖 IA Scraper
 
 IA Scraper es un proyecto en Python que permite **extraer información de páginas web automáticamente**. Ideal para análisis de datos, investigación o recopilación de información.
