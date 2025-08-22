@@ -40,7 +40,7 @@ pip install requests beautifulsoup4 pandas
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/opticGDOS/ia-scraper.git
+git clone https://github.com/opticGDOS/ai_tools_scraper.git
 cd ia-scraper
 ```
 
