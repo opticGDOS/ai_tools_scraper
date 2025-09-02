@@ -86,12 +86,3 @@ Puedes contribuir:
 * Exportando resultados a Excel o bases de datos.
 
 ---
-
-## 📝 Licencia
-
-Este proyecto está bajo la licencia **MIT**.
-
-```
-
-Si quieres, puedo hacer también una **versión con badges de GitHub, Python y estado de build** que quede aún más profesional y atractiva en tu repo. ¿Quieres que haga esa versión también?
-```
